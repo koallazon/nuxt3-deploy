@@ -1,1 +1,1 @@
-npm run start:${PROFILE}
+pnpm run preview
